@@ -8,7 +8,7 @@ import (
 	"io"
 	"net/http"
 
-	"github.com/jaydyntfavors/Go-Ledger-AI/internal/models"
+	"github.com/jaydyntfavors-tech/Go-Ledger-AI/internal/models"
 )
 
 type AIAdvisor struct {
