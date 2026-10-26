@@ -1,3 +1,3 @@
 go
-module github.com/jaydynfavors/Go-Ledger-AI
+module github.com/jaydyntfavors/Go-Ledger-AI
 go 1.23
