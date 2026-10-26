@@ -1,6 +1,6 @@
 package services
 
-import "github.com/jaydyntfavors/Go-Ledger-AI/internal/models"
+import "github.com/jaydyntfavors-tech/Go-Ledger-AI/internal/models"
 
 // CategoryInput holds raw data from the database before we run our budget math
 type CategoryInput struct {
