@@ -6,7 +6,7 @@ import (
 	"fmt"
 
 	"github.com/jaydyntfavors/Go-Ledger-AI/internal/models"
-	"github.com/jaydyntfavors/Go-Ledger-Ai/internal/services"
+	"github.com/jaydyntfavors/Go-Ledger-AI/internal/services"
 )
 
 type LedgerRepository struct {
