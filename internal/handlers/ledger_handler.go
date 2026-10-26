@@ -5,9 +5,9 @@ import (
 	"net/http"
 	"strconv"
 
-	"github.com/jaydyntfavors/Go-Ledger-AI/internal/models"
-	"github.com/jaydyntfavors/Go-Ledger-AI/internal/repository"
-	"github.com/jaydyntfavors/Go-Ledger-AI/internal/services"
+	"github.com/jaydyntfavors-tech/Go-Ledger-AI/internal/models"
+	"github.com/jaydyntfavors-tech/Go-Ledger-AI/internal/repository"
+	"github.com/jaydyntfavors-tech/Go-Ledger-AI/internal/services"
 )
 
 type LedgerHandler struct {
